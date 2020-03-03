@@ -1,0 +1,21 @@
+body {
+  background: #636363;
+}
+
+.container {
+  text-align: center;
+  margin-top:50px;
+}
+
+.distance {
+  display:inline-block;
+  text-align: center;
+}
+
+.distance div {
+  margin-top: 20px;
+}
+
+input {
+  height: 40px;
+}
